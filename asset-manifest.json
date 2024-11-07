@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hematUang/static/css/main.cc40cb13.css",
+    "main.js": "/hematUang/static/js/main.efe8d302.js",
+    "static/js/453.ed3810f9.chunk.js": "/hematUang/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/hematUang/index.html",
+    "main.cc40cb13.css.map": "/hematUang/static/css/main.cc40cb13.css.map",
+    "main.efe8d302.js.map": "/hematUang/static/js/main.efe8d302.js.map",
+    "453.ed3810f9.chunk.js.map": "/hematUang/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc40cb13.css",
+    "static/js/main.efe8d302.js"
+  ]
+}
